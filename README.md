@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=CaioMouras&show_icons=true&theme=radical" />
 
-<img align="left" width="45%" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMouras&layout=compact" />
+<img align="left" width="45%" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMouras&layout=compact" />
 
  <br />  <br />  <br />  <br />  <br />  <br />
  ## ⚡ Technologies
