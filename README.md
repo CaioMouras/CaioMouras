@@ -8,12 +8,10 @@
 
 - 🏠 I’m currently living at Rio de Janeiro City, Brazil.
 - 🙌 I'm currently open to: Front-End Developer | Software Engineering 
-- 🌱 I’m currently learning: Full-Stack Web Dev | Software Engineering |  English | French.
+- 🌱 I’m currently learning: Physic | Full-Stack Web Dev | Software Engineering |  English | French.
 
 <!--
-✨ ✨
-
-👋 Hello world
+✨ c
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -21,7 +19,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## GitHub Stats
+## ✨ GitHub Stats
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=CaioMouras&show_icons=true&theme=radical" />
 
