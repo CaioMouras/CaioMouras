@@ -1,13 +1,15 @@
 <h1 align="center">
-<img align="top" width="40%" height="150px" src="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966" />
+<img align="top" width="40%" height="40%" src="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966" />
 </h1>
 
 ### Hi there, I'm Caio Moura
 
 #### A young brazilian student of physics and programming
 
-- 🌱 I’m currently learning: english and french.
 - 🏠 I’m currently living at Rio de Janeiro City, Brazil.
+- 🙌 I'm currently open to: Front-End Developer | Software Engineering 
+- 🌱 I’m currently learning: Full-Stack Web Dev | Software Engineering |  English | French.
+
 <!--
 ✨ ✨
 
