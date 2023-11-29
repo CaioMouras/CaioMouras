@@ -8,7 +8,7 @@
 
 - 🏠 I’m currently living at Rio de Janeiro City, Brazil.
 - 🙌 I'm currently open to: Front-End Developer | Software Engineering 
-- 🌱 I’m currently learning: Physic | Full-Stack Web Dev | Software Engineering |  English | French.
+- 🌱 I’m currently learning: Physic | Full-Stack Web Dev | Software Engineering.
 
 <!--
 ✨ c
