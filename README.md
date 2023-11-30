@@ -25,7 +25,7 @@
 <img align="left" width="45%" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMouras&layout=compact" />
 
  <br />  <br />  <br />  <br />  <br />  <br />
- <br /> ## ⚡ Technologies
+## <br /> ⚡ Technologies
  
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
