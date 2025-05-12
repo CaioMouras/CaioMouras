@@ -1,31 +1,33 @@
 <h1 align="center">
 </h1>
 
-### Hi there, I'm Caio Moura
+### Olá, eu sou o Caio Moura
 
-#### A young brazilian student of physics and programming
+#### Programador por formação, físico por paixão,  e nerd por natureza.
+#### Misturo fórmulas, códigos, cultura geek e umas boas notas musicais no mesmo café.
 
-- 🏠 I’m currently living at Rio de Janeiro City, Brazil.
-- 🙌 I'm currently open to: Front-End Developer | Software Engineering 
-- 🌱 I’m currently learning: Physic | Full-Stack Web Dev | Software Engineering.
+
+- 🏠 Atualmente moro na cidade do Rio de Janeiro, Brasil.
+- 🙌 Aberto a oportunidades como: Desenvolvedor Front-End | Engenharia de Software
+- 🌱 Atualmente estudando: Física | Desenvolvimento Web Full-Stack | Engenharia de Software
 
 <!--
 ✨ c
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 👯 Estou procurando colaborar em ...
+- 🤔 Preciso de ajuda com ...
+- 💬 Pergunte-me sobre ...
+- 📫 Como me encontrar: ...
+- ⚡ Curiosidade: ...
 -->
 
-## ✨ GitHub Stats
+## ✨ Estatísticas do GitHub
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=CaioMouras&show_icons=true&theme=radical" />
 
 <img align="left" width="45%" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMouras&layout=compact" />
 
  <br />  <br />  <br />  <br />  <br />  <br />
-## <br /> ⚡ Technologies
+## <br /> ⚡ Tecnologias
  
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
@@ -36,7 +38,7 @@
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
 
-## <br /> <br />Connect with me
+## <br /> <br />Conecte-se comigo
 
 <a href="https://linkedin.com/in/caiomoura/">
   <img align="left" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn">
@@ -52,4 +54,4 @@
 
 <br /> <br /> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioMouras&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de atividades do GitHub de Caio Moura](https://github-readme-activity-graph.vercel.app/graph?username=CaioMouras&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
