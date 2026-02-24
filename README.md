@@ -1,57 +1,104 @@
-<h1 align="center">
-</h1>
+<!-- ====== HERO ====== -->
+<div align="center">
 
-### Olá, eu sou o Caio Moura
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=650&color=7AA2F7&center=true&vCenter=true&width=900&lines=Caio+Moura;Web+Dev+%7C+Software+Engineering+%7C+DevSecOps+curioso;Professor+de+Programa%C3%A7%C3%A3o%2C+Rob%C3%B3tica%2C+F%C3%ADsica+e+Matem%C3%A1tica;Automacao%2C+seguranca+e+projetos+educacionais+na+vida+real" alt="Typing SVG" />
 
-#### Programador por formação, físico por paixão,  e nerd por natureza.
-#### Misturo fórmulas, códigos, cultura geek e umas boas notas musicais no mesmo café.
+<br/>
 
-
-- 🏠 Atualmente moro na cidade do Rio de Janeiro, Brasil.
-- 🙌 Aberto a oportunidades como: Desenvolvedor Front-End | Engenharia de Software
-- 🌱 Atualmente estudando: Física | Desenvolvimento Web Full-Stack | Engenharia de Software
-
-<!--
-✨ c
-- 👯 Estou procurando colaborar em ...
-- 🤔 Preciso de ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como me encontrar: ...
-- ⚡ Curiosidade: ...
--->
-
-## ✨ Estatísticas do GitHub
-
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=CaioMouras&show_icons=true&theme=radical" />
-
-<img align="left" width="45%" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMouras&layout=compact" />
-
- <br />  <br />  <br />  <br />  <br />  <br />
-## <br /> ⚡ Tecnologias
- 
-<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-
-<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-
-
-## <br /> <br />Conecte-se comigo
-
-<a href="https://linkedin.com/in/caiomoura/">
-  <img align="left" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn">
+<!-- Quick badges -->
+<img src="https://komarev.com/ghpvc/?username=CaioMouras&style=for-the-badge&color=7AA2F7" alt="Profile views"/>
+<a href="https://github.com/CaioMouras?tab=followers">
+  <img src="https://img.shields.io/github/followers/CaioMouras?style=for-the-badge&color=BB9AF7&labelColor=1A1B27" alt="Followers"/>
+</a>
+<a href="https://github.com/CaioMouras?tab=repositories">
+  <img src="https://img.shields.io/badge/Repos-Open%20Source-7AA2F7?style=for-the-badge&labelColor=1A1B27" alt="Repos"/>
 </a>
 
-<a href="https://www.instagram.com/caio_mour4/">
-  <img align="left" alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</div>
+
+---
+
+## 🧠 Sobre mim (na lata)
+
+Sou dev e professor. Eu gosto de **código que resolve**, **interface que não atrapalha**, e **automação** pra parar de fazer tarefa chata na unha.
+
+- 💻 Foco: **Desenvolvimento Web** e **Engenharia de Software**
+- 🛡️ Curiosidade séria: **Security / DevSecOps**
+- 🤖 Também faço: **Robótica / projetos educacionais**
+- 🎵 Músico multi-instrumentista (sim, isso melhora meu debugging — caos controlado)
+- 🗣️ Idiomas: PT-BR (nativo), ES (fluente), EN/FR (intermediário), RU (iniciante)
+
+---
+
+## 🧰 Stack / Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,python,git,github,linux,vscode,arduino&theme=dark" />
+
+</div>
+
+> **Obs:** Eu curto stack pragmática. Se precisa ser rápido, eu simplifico. Se precisa escalar, eu organizo.
+
+---
+
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+<!-- Pinned repo cards (auto) -->
+<a href="https://github.com/CaioMouras/Estudos-de-Russo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=Estudos-de-Russo&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://t.me/CaioMouras">
-  <img align="left" alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a> 
+<a href="https://github.com/CaioMouras/Site-Android">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=Site-Android&theme=tokyonight&hide_border=true" />
+</a>
 
-<br /> <br /> 
+<a href="https://github.com/CaioMouras/Object-Orientation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=Object-Orientation&theme=tokyonight&hide_border=true" />
+</a>
 
-[![Gráfico de atividades do GitHub de Caio Moura](https://github-readme-activity-graph.vercel.app/graph?username=CaioMouras&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/CaioMouras/App-Or-amento-Pessoal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=App-Or-amento-Pessoal&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/CaioMouras/FichaRpg">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=FichaRpg&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📊 Stats (automático, sem choro)
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=CaioMouras&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMouras&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioMouras&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioMouras&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🧪 O que você vai ver por aqui
+
+- Projetos de **Web Dev** (HTML/CSS/JS e afins)
+- Apps e ferramentas pra **produtividade** (ex.: orçamento pessoal)
+- Projetos **educacionais** e experiências (robótica, ensino, etc.)
+- Coisas de **security/automação** quando eu estiver no modo “deixa comigo”
+
+---
+
+## 🤝 Bora trocar ideia
+
+Se você curte gente que aprende rápido, entrega e não romantiza gambiarra… tamo junto.
