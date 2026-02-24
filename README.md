@@ -1,18 +1,14 @@
-<!-- ====== HERO ====== -->
+<!-- ================= HERO ================= -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=650&color=7AA2F7&center=true&vCenter=true&width=900&lines=Caio+Moura;Web+Dev+%7C+Software+Engineering+%7C+DevSecOps+curioso;Professor+de+Programa%C3%A7%C3%A3o%2C+Rob%C3%B3tica%2C+F%C3%ADsica+e+Matem%C3%A1tica;Automacao%2C+seguranca+e+projetos+educacionais+na+vida+real" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=Caio+Moura;Web+Developer+%7C+Software+Engineering;Security+Enthusiast;Professor+de+Programação+e+Robótica" />
 
 <br/>
 
-<!-- Quick badges -->
-<img src="https://komarev.com/ghpvc/?username=CaioMouras&style=for-the-badge&color=7AA2F7" alt="Profile views"/>
-<a href="https://github.com/CaioMouras?tab=followers">
-  <img src="https://img.shields.io/github/followers/CaioMouras?style=for-the-badge&color=BB9AF7&labelColor=1A1B27" alt="Followers"/>
-</a>
-<a href="https://github.com/CaioMouras?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-Open%20Source-7AA2F7?style=for-the-badge&labelColor=1A1B27" alt="Repos"/>
-</a>
+<img src="https://img.shields.io/github/followers/CaioMouras?style=for-the-badge&color=BB9AF7&labelColor=1A1B27" />
+<img src="https://img.shields.io/github/stars/CaioMouras?style=for-the-badge&color=7AA2F7&labelColor=1A1B27" />
+<img src="https://komarev.com/ghpvc/?username=CaioMouras&style=for-the-badge&color=7AA2F7" />
 
 </div>
 
@@ -20,17 +16,19 @@
 
 ## 🧠 Sobre mim
 
-Sou dev e professor. Eu gosto de **código que resolve**, **interface que não atrapalha**, e **automação** pra parar de fazer tarefa chata na unha.
+Sou desenvolvedor com foco em **Web e Engenharia de Software**.  
+Gosto de arquitetura organizada, código limpo e solução prática.
 
-- 💻 Foco: **Desenvolvimento Web** e **Engenharia de Software**
-- 🛡️ Curiosidade séria: **Security / DevSecOps**
-- 🤖 Também faço: **Robótica / projetos educacionais**
+- 💻 Desenvolvimento Web (Front & Back)
+- 🧱 Estruturação e modelagem de sistemas
+- 🛡️ Interesse sólido em Security / DevSecOps
+- 🤖 Projetos educacionais e robótica
 - 🎵 Músico multi-instrumentista (Nem só de terminal vive o Dev)
-- 🗣️ Idiomas: PT-BR (nativo), ES (fluente), EN/FR (intermediário), RU (iniciante)...
+- 🗣️ PT-BR (nativo) | ES (fluente) | EN / FR (intermediário) | RU (iniciante)
 
 ---
 
-## 🧰 Stack / Ferramentas
+## 🧰 Stack
 
 <div align="center">
 
@@ -38,15 +36,12 @@ Sou dev e professor. Eu gosto de **código que resolve**, **interface que não a
 
 </div>
 
-> **Obs:** Eu curto stack pragmática. Se precisa ser rápido, eu simplifico. Se precisa escalar, eu organizo.
-
 ---
 
 ## 🚀 Projetos em destaque
 
 <div align="center">
 
-<!-- Pinned repo cards (auto) -->
 <a href="https://github.com/CaioMouras/Estudos-de-Russo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=Estudos-de-Russo&theme=tokyonight&hide_border=true" />
 </a>
@@ -71,16 +66,17 @@ Sou dev e professor. Eu gosto de **código que resolve**, **interface que não a
 
 ---
 
-## 📊 Stats (automático, sem choro)
+## 📊 Estatísticas
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=CaioMouras&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMouras&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioMouras&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMouras&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioMouras&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=CaioMouras&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -90,15 +86,17 @@ Sou dev e professor. Eu gosto de **código que resolve**, **interface que não a
 
 ---
 
-## 🧪 O que você vai ver por aqui
+## 🎯 O que você vai encontrar aqui
 
-- Projetos de **Web Dev** (HTML/CSS/JS e afins)
-- Apps e ferramentas pra **produtividade** (ex.: orçamento pessoal)
-- Projetos **educacionais** e experiências (robótica, ensino, etc.)
-- Coisas de **security/automação** quando eu estiver no modo “deixa comigo”
+- Projetos de Desenvolvimento Web
+- Aplicações práticas
+- Estudos estruturados de programação
+- Projetos educacionais
+- Experimentações técnicas
 
 ---
 
-## 🤝 Bora trocar ideia
+## 🤝 Contato
 
-Se você curte gente que aprende rápido, entrega e não romantiza gambiarra… tamo junto.
+Se você busca alguém técnico, didático e orientado a solução,  
+vamos conversar.
