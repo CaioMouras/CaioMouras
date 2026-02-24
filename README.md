@@ -18,15 +18,15 @@
 
 ---
 
-## 🧠 Sobre mim (na lata)
+## 🧠 Sobre mim
 
 Sou dev e professor. Eu gosto de **código que resolve**, **interface que não atrapalha**, e **automação** pra parar de fazer tarefa chata na unha.
 
 - 💻 Foco: **Desenvolvimento Web** e **Engenharia de Software**
 - 🛡️ Curiosidade séria: **Security / DevSecOps**
 - 🤖 Também faço: **Robótica / projetos educacionais**
-- 🎵 Músico multi-instrumentista (sim, isso melhora meu debugging — caos controlado)
-- 🗣️ Idiomas: PT-BR (nativo), ES (fluente), EN/FR (intermediário), RU (iniciante)
+- 🎵 Músico multi-instrumentista (Nem só de terminal vive o Dev)
+- 🗣️ Idiomas: PT-BR (nativo), ES (fluente), EN/FR (intermediário), RU (iniciante)...
 
 ---
 
