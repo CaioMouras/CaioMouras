@@ -1,6 +1,6 @@
 <!-- ================= HEADER (SVG) ================= -->
 <div align="center">
-  <img src="header.svg" width="100%" alt="Header"/>
+  <img src="hero-github.svg" width="100%" alt="Header"/>
 </div>
 
 <!-- ================= TOP BADGES ================= -->
