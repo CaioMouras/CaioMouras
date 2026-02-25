@@ -50,23 +50,23 @@ Gosto de arquitetura organizada, código limpo e solução prática.
 <div align="center">
 
 <a href="https://github.com/CaioMouras/Estudos-de-Russo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=Estudos-de-Russo&theme=tokyonight&hide_border=true" alt="Estudos de Russo"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=Estudos-de-Russo&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estudos de Russo"/>
 </a>
 
 <a href="https://github.com/CaioMouras/Site-Android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=Site-Android&theme=tokyonight&hide_border=true" alt="Site Android"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=Site-Android&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Site Android"/>
 </a>
 
 <a href="https://github.com/CaioMouras/Object-Orientation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=Object-Orientation&theme=tokyonight&hide_border=true" alt="Object Orientation"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=Object-Orientation&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Object Orientation"/>
 </a>
 
 <a href="https://github.com/CaioMouras/App-Or-amento-Pessoal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=App-Or-amento-Pessoal&theme=tokyonight&hide_border=true" alt="App Orçamento Pessoal"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=App-Or-amento-Pessoal&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="App Orçamento Pessoal"/>
 </a>
 
 <a href="https://github.com/CaioMouras/FichaRpg">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=FichaRpg&theme=tokyonight&hide_border=true" alt="Ficha RPG"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMouras&repo=FichaRpg&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Ficha RPG"/>
 </a>
 
 </div>
@@ -77,9 +77,13 @@ Gosto de arquitetura organizada, código limpo e solução prática.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioMouras&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<a href="https://github.com/CaioMouras">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioMouras&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMouras&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<a href="https://github.com/CaioMouras?tab=repositories">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMouras&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages"/>
+</a>
 
 <br/>
 
@@ -99,11 +103,10 @@ Gosto de arquitetura organizada, código limpo e solução prática.
 - Aplicações práticas (organização / produtividade / estudos)
 - Estudos estruturados de programação
 - Projetos educacionais e experimentações técnicas
-- Segurança e automação quando eu estiver no modo “deixa comigo”
+- Segurança e automação quando eu tiver algum tempo sobrando.
 
 ---
 
 ## 🤝 Contato
 
-Se você busca alguém técnico, didático e orientado a solução,  
-vamos conversar.
+Se você curte gente que aprende rápido, entrega e não romantiza gambiarra, alguém técnico, didático e orientado a solução: **bora trocar uma ideia.**
