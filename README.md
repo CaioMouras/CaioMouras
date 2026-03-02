@@ -10,6 +10,12 @@
   <img src="https://komarev.com/ghpvc/?username=CaioMouras&style=for-the-badge&color=7AA2F7" />
 </div>
 
+<!-- ================= TYPING ================= -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=Web+Developer+%7C+Software+Engineering;Security+Curious+%7C+Automation+Enjoyer;Professor+de+Programa%C3%A7%C3%A3o%2C+Rob%C3%B3tica%2C+F%C3%ADsica+e+Matem%C3%A1tica" />
+</div>
+
+
 ---
 
 ## 🧠 About
