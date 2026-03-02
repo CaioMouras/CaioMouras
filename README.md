@@ -3,18 +3,17 @@
   <img src="hero-github.svg" width="100%" alt="Header"/>
 </div>
 
+<!-- ================= TYPING ================= -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=Web+Developer+%7C+Software+Engineering;Security+Curious+%7C+Automation+Enjoyer;Professor+de+Programa%C3%A7%C3%A3o%2C+Rob%C3%B3tica%2C+F%C3%ADsica+e+Matem%C3%A1tica" />
+</div>
+
 <!-- ================= BADGES ================= -->
 <div align="center">
   <img src="https://img.shields.io/github/followers/CaioMouras?style=for-the-badge&color=BB9AF7&labelColor=1A1B27" />
   <img src="https://img.shields.io/github/stars/CaioMouras?style=for-the-badge&color=7AA2F7&labelColor=1A1B27" />
   <img src="https://komarev.com/ghpvc/?username=CaioMouras&style=for-the-badge&color=7AA2F7" />
 </div>
-
-<!-- ================= TYPING ================= -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=Web+Developer+%7C+Software+Engineering;Security+Curious+%7C+Automation+Enjoyer;Professor+de+Programa%C3%A7%C3%A3o%2C+Rob%C3%B3tica%2C+F%C3%ADsica+e+Matem%C3%A1tica" />
-</div>
-
 
 ---
 
