@@ -10,28 +10,31 @@
   <img src="https://komarev.com/ghpvc/?username=CaioMouras&style=for-the-badge&color=7AA2F7" />
 </div>
 
-<!-- ================= TYPING ================= -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=Web+Developer+%7C+Software+Engineering;Security+Curious+%7C+Automation+Enjoyer;Professor+de+Programa%C3%A7%C3%A3o%2C+Rob%C3%B3tica%2C+F%C3%ADsica+e+Matem%C3%A1tica" />
-</div>
-
 ---
 
-## 🧠 Sobre mim
+## 🧠 About
 
-Sou desenvolvedor com foco em **Web e Engenharia de Software**.  
-Gosto de arquitetura organizada, código limpo e solução prática.
+Desenvolvedor focado em **Web & Software Engineering**.  
+Construo aplicações com organização, clareza estrutural e mentalidade de longo prazo.
 
-- 💻 Desenvolvimento Web (Front & Back)
-- 🧱 Estruturação e modelagem de sistemas
-- 🛡️ Interesse sólido em Security / DevSecOps
+- 💻 Front & Back-end Web
+- 🧱 Modelagem e organização de código
+- 🛡️ Interesse consistente em Security / DevSecOps
 - 🤖 Projetos educacionais e robótica
 - 🎵 Músico multi-instrumentista (Nem só de terminal vive o Dev)
-- 🗣️ PT-BR (nativo) | ES (fluente) | EN / FR (intermediário) | RU (iniciante)
+- 🌍 PT-BR | ES | EN | FR | RU
 
 ---
 
-## 🧰 Stack
+## 🚀 Currently Building
+
+- Evolução da plataforma **Estudos de Russo**
+- Refinando projetos com foco em arquitetura e manutenibilidade
+- Aprofundando práticas de segurança e validação
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,python,git,github,linux,vscode,arduino&theme=dark" />
@@ -39,7 +42,7 @@ Gosto de arquitetura organizada, código limpo e solução prática.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🧩 Featured Projects
 
 <div align="center">
 
@@ -67,40 +70,35 @@ Gosto de arquitetura organizada, código limpo e solução prática.
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Metrics
 
 <div align="center">
 
 <a href="https://github.com/CaioMouras">
-  <img height="170" src="https://github-readme-stats-eq8ca8pl5-caios-projects-a260ac07.vercel.app/api?username=CaioMouras&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats-eq8ca8pl5-caios-projects-a260ac07.vercel.app/api?username=CaioMouras&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </a>
 
 <a href="https://github.com/CaioMouras?tab=repositories">
-  <img height="170" src="https://github-readme-stats-eq8ca8pl5-caios-projects-a260ac07.vercel.app/api/top-langs/?username=CaioMouras&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eq8ca8pl5-caios-projects-a260ac07.vercel.app/api/top-langs/?username=CaioMouras&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=CaioMouras&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioMouras&theme=tokyo-night&hide_border=true" />
+<img height="160" src="https://streak-stats.demolab.com?user=CaioMouras&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 O que você vai encontrar aqui
+## 🧠 Engineering Mindset
 
-- Projetos de Desenvolvimento Web  
-- Aplicações práticas  
-- Estudos estruturados de programação  
-- Projetos educacionais  
-- Segurança e automação  
+- Código limpo > código esperto  
+- Estrutura antes de otimização  
+- Segurança como prática, não como remendo  
+- Aprendizado contínuo aplicado na prática  
 
 ---
 
 ## 🤝 Contato
 
-Se você curte gente que aprende rápido, entrega e não romantiza gambiarra, alguém técnico, didático e orientado a solução: **bora trocar uma ideia.**
+Se você curte gente que aprende rápido, entrega e não romantiza gambiarra — mas também quer alguém técnico, didático e orientado a solução: **bora trocar uma ideia.**
