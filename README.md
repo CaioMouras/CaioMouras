@@ -101,4 +101,4 @@ Construo aplicações com organização, clareza estrutural e mentalidade de lon
 
 ## 🤝 Contato
 
-Se você curte gente que aprende rápido, entrega e não romantiza gambiarra — mas também quer alguém técnico, didático e orientado a solução: **bora trocar uma ideia.**
+Se você curte gente que aprende rápido, entrega e não romantiza gambiarra, alguém técnico, didático e orientado a solução: **bora trocar uma ideia.**
